@@ -1,0 +1,14 @@
+layout_spectrum: 0.7876500638667494
+typography_spectrum: 0.4415824795141816
+color:
+  brandStrength: 0.797655941452831
+  lightness: 0.8086480973288417
+  saturation: 0.9901097198016942
+  rhythmicContrast: 0.672205421840772
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: homerunmovers
